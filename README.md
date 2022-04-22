@@ -33,7 +33,7 @@ Monterey install with Zen Series CPU and Asus ROG STRIX X570-E GAMING motherboar
 | **Advanced -> USB Configuration -> Legacy USB Support ->**       | [ Auto or Disabled ]       |
 | **Boot -> Boot Configuration -> Fast boot ->**                   | [ Disable ]                |
 | **Boot -> CSM -> Launch CSM ->**                                 | [ Disable ]                |
-| **Boot -> Secure boot -> OS Type -> **                           | [ Windows UEFI mode ]      |
+| **Boot -> Secure boot -> OS Type ->**                           | [ Windows UEFI mode ]      |
 | **Boot -> Secure boot -> Key Management ->**                     | [ Clear Secure Boot Keys ] |
 
 
@@ -41,17 +41,17 @@ OpenCore 0.8.0 EFI Update , 18th April 2022.
 
 The EFI has now been updated to the my latest version.
 
-Changes made include,
+## Changes made include,
 
-º Lilu 1.6.0,
-º AppleALC 1.7.1,
-º WhateverGreen 1.5.8,
-º VirtualSMC 1.2.9,
-º RestrictEvents 1.0.7,
-º LucyRTL8125Ethernet 1.1.0
-º SMCAMDProcessor 0.7
-º AppleMCEReporterDisabler 1.2
-º SmallTreeIntel812576Ethernet 1.3.0
+**º Lilu 1.6.0**
+**º AppleALC 1.7.1**
+**º WhateverGreen 1.5.8**
+**º VirtualSMC 1.2.9**
+**º RestrictEvents 1.0.7**
+**º LucyRTL8125Ethernet 1.1.0**
+**º SMCAMDProcessor 0.7**
+**º AppleMCEReporterDisabler 1.2**
+**º SmallTreeIntel812576Ethernet 1.3.0**
 
 New Universal AMD Patches Monterey 12.0 Compatible,
 2.5Ghz Ethernet Auto Negotiation Fixed,
@@ -81,7 +81,7 @@ Changing BA000000 0000/BA000000 0090* to BA <CoreCount> 0000 0000/BA <CoreCount>
 
 Note: The three different values reflect the patch for different versions of macOS. Be sure to change all three if you boot macOS 10.13 to macOS 12
 
-See the table below for the values matching your CPU Core Count.
+## See the table below for the values matching your CPU Core Count.
 
 |        CoreCount      | Hexadecimal |
 |:---------------------:|------------ |
