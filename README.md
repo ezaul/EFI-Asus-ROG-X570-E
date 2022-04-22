@@ -71,7 +71,7 @@ Note 4 - BIOS SETTING CHANGE - Since Bios Revision 4010 Power On By PCIe can bre
 Advanced -> APM Configuration -> Power On By PCIe -> Disabled
 For OpenCore Using PlistEdit Pro add your details by modifying the following
 
-<img src="https://i.imgur.com/mZeZ7ts.png" width="200" height="48" /> 
+<img src="https://i.imgur.com/mZeZ7ts.png" width="736" height="625" /> 
 
 IMPORTANT PATCH INFO TO SET THE CORRECT CORE COUNT FOR YOUR CPU
 
@@ -96,7 +96,7 @@ Or a 12 Core 5900X that I have it setup as standard would result in these replac
 
 EXAMPLE
 
-<img src="https://i.imgur.com/BbGgsap.png" width="200" height="48" /> 
+<img src="https://i.imgur.com/BbGgsap.png" width="736" height="625" /> 
 
 
 Finally and as always, MAKE SURE YOU RESET YOUR NVRAM BEFORE BOOTING INTO THE NEW EFI
