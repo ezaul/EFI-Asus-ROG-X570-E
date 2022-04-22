@@ -33,11 +33,11 @@ Monterey install with Zen Series CPU and Asus ROG STRIX X570-E GAMING motherboar
 | **Advanced -> USB Configuration -> Legacy USB Support ->**       | [ Auto or Disabled ]       |
 | **Boot -> Boot Configuration -> Fast boot ->**                   | [ Disable ]                |
 | **Boot -> CSM -> Launch CSM ->**                                 | [ Disable ]                |
-| **Boot -> Secure boot -> OS Type ->**                           | [ Windows UEFI mode ]      |
+| **Boot -> Secure boot -> OS Type ->**                            | [ Windows UEFI mode ]      |
 | **Boot -> Secure boot -> Key Management ->**                     | [ Clear Secure Boot Keys ] |
 
 
-OpenCore 0.8.0 EFI Update , 18th April 2022.
+## OpenCore 0.8.0 EFI Update , 18th April 2022.
 
 The EFI has now been updated to the my latest version.
 
