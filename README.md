@@ -43,15 +43,15 @@ The EFI has now been updated to the my latest version.
 
 ## Changes made include,
 
-**º Lilu 1.6.0**
-**º AppleALC 1.7.1**
-**º WhateverGreen 1.5.8**
-**º VirtualSMC 1.2.9**
-**º RestrictEvents 1.0.7**
-**º LucyRTL8125Ethernet 1.1.0**
-**º SMCAMDProcessor 0.7**
-**º AppleMCEReporterDisabler 1.2**
-**º SmallTreeIntel812576Ethernet 1.3.0**
+*º Lilu 1.6.0
+*º AppleALC 1.7.1
+*º WhateverGreen 1.5.8
+*º VirtualSMC 1.2.9
+*º RestrictEvents 1.0.7
+*º LucyRTL8125Ethernet 1.1.0
+*º SMCAMDProcessor 0.7
+*º AppleMCEReporterDisabler 1.2
+*º SmallTreeIntel812576Ethernet 1.3.0
 
 New Universal AMD Patches Monterey 12.0 Compatible,
 2.5Ghz Ethernet Auto Negotiation Fixed,
