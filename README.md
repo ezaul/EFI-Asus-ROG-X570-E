@@ -1,2 +1,2 @@
-# EFI-Asus-ROG-X570-E
- ASUS ROG STRIX X570-E GAMING Hackintosh - Big Sur & Monterey Beta - OpenCore EFI
+<img src="https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Logos/OpenCore_with_text_Small.png" width="200" height="48"/>
+## Asus Rog X570-E
