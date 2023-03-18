@@ -16,7 +16,7 @@ Monterey install with Zen Series CPU and Asus ROG STRIX X570-E GAMING motherboar
 | **Power Supply** | [ Asus ROG-THOR-1200P, 1200W, 80 Plus Platinum ]  |
 |                  |                                        |
 |    **SMBIOS**    | [ MacPro7,1 ]                          |
-|    **MacOS**     | [ Monterey ]                           |
+|    **MacOS**     | [ Ventura ]                           |
 |   **Opencore**   | [ 0.9.0 ]                              |
 
 
