@@ -29,7 +29,7 @@ Monterey install with Zen Series CPU and Asus ROG STRIX X570-E GAMING motherboar
 | **Ai Tweaker -> Ai Overclock Tuner ->**                          | [ D.O.C.P.]                |
 | **Advanced -> APM Configuration -> Power On By PCIe ->**         | [ Disable ]                |
 | **Advanced -> PCI Subsystem Settings -> Above 4G Decoding ->**   | [ Enabled ]                |
-| **Advanced -> PCI Subsystem Settings -> Re-Size BAR Support ->** | [ Disable ]                |
+| **Advanced -> PCI Subsystem Settings -> Re-Size BAR Support ->** | [ Enabled ]                |
 | **Advanced -> USB Configuration -> Legacy USB Support ->**       | [ Auto or Disabled ]       |
 | **Boot -> Boot Configuration -> Fast boot ->**                   | [ Disable ]                |
 | **Boot -> CSM -> Launch CSM ->**                                 | [ Disable ]                |
