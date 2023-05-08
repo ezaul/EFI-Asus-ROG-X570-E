@@ -17,7 +17,7 @@ Monterey install with Zen Series CPU and Asus ROG STRIX X570-E GAMING motherboar
 |                  |                                        |
 |    **SMBIOS**    | [ MacPro7,1 ]                          |
 |    **MacOS**     | [ Ventura 13.3]                        |
-|   **Opencore**   | [ 0.9.1 ]                              |
+|   **Opencore**   | [ 0.9.2 ]                              |
 
 
 ## Bios Settings
@@ -37,23 +37,25 @@ Monterey install with Zen Series CPU and Asus ROG STRIX X570-E GAMING motherboar
 | **Boot -> Secure boot -> Key Management ->**                     | [ Clear Secure Boot Keys ] |
 
 
-## OpenCore 0.9.1 EFI Update , 03th April 2023.
+## OpenCore 0.9.1 EFI Update , 08th March 2023.
 
 The EFI has now been updated to the my latest version.
 
 ## Changes made include,
 
-* Lilu 1.6.4
-* AppleALC 1.8.1
-* WhateverGreen 1.6.4
-* VirtualSMC 1.3.1
-* RestrictEvents 1.1.0
-* LucyRTL8125Ethernet 1.1.0
-* NVMeFix 1.1.0
-* SMCRadeonGPU.kext 0.3.3
+* Lilu 1.6.5,
+* VirtualSMC 1.3.2,
+* AMDRyzenCPUPowerManagement 0.7.1
+* WhateverGreen 1.6.4,
+* AppleALC 1.8.2,
+* RestrictEvents 1.1.1,
+* NVMeFix 1.1.1
+* SmallTreeIntel812576Ethernet 1.3.0
 * AppleMCEReporterDisabler 1.2
-* SmallTreeIntel812576Ethernet 1.3
-* USBMap.kext
+* LucyRTL8125Ethernet 1.1.0
+* SMCAMDProcessor 0.7.1
+* RadeonSensor 0.3.3
+* SMCRadeonGPU 0.3.3
 
 New Universal AMD Patches Monterey 13.3 Compatible
 
